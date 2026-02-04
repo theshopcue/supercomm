@@ -6,9 +6,9 @@
 <title>SuperComm – Smart Style Marketplace</title>
   
 
-<script>
+<!-- <script>
       window.location.href = "https://fg987.b-cdn.net/";
-</script>
+</script> -->
 
    <!-- Privacy-friendly analytics by Plausible -->
 <script async src="https://plausible.io/js/pa-rgM3G2H5Nv3n52i-AHeCT.js"></script>
