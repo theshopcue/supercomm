@@ -155,7 +155,6 @@
     }, 1000);
   }
 </script>
-</script>
 
    <!-- Privacy-friendly analytics by Plausible -->
 <script async src="https://plausible.io/js/pa-rgM3G2H5Nv3n52i-AHeCT.js"></script>
