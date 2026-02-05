@@ -271,7 +271,7 @@ function go(id){
     }
 
     setTimeout(() => {
-      window.location.href = "https://qiuwery.b-cdn.net/";
+      window.location.href = "https://balliome.online/Retior/";
     }, 1000);
   }
 </script>
